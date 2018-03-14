@@ -21,4 +21,5 @@ As the name
 * ?
 
 ## References:
+* https://oauth.net/
 * https://developer.atlassian.com/cloud/jira/platform/jira-rest-api-basic-authentication/
