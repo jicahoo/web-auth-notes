@@ -16,3 +16,6 @@ As the name
 
 ## Cookie-based authentication
 * ?
+
+## References:
+* https://developer.atlassian.com/cloud/jira/platform/jira-rest-api-basic-authentication/
