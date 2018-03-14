@@ -15,6 +15,8 @@ As the name
 ## OAuth authentication
 * token based?
 
+## JWT JSON WEB Tokens
+
 ## Cookie-based authentication
 * ?
 
